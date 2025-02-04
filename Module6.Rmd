@@ -432,3 +432,5 @@ ggplot(Kamilar %>%
   theme_minimal()
 
 ```
+
+figure errors out!!!
